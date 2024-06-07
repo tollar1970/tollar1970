@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on the AZ-400 certification.
 <!--
 **tollar1970/tollar1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
